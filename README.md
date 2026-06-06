@@ -1,6 +1,6 @@
 # Hi, I'm Bilal Zamil Ahmed 👋
 
-I'm a third-year Computer Science student at the University of Anbar.
+I'm a third-year Computer Science student at the University of Anbar, interested in building practical software tools and learning through real projects.
 
 I build practical, AI-assisted software projects to learn programming, problem-solving, automation, and real-world development workflows.
 
