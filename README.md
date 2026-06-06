@@ -79,3 +79,5 @@ I focus on:
 
 - GitHub: [@bilalcodes1](https://github.com/bilalcodes1)
 - YouTube: [Bilal Codes](https://www.youtube.com/@bilalcodes1)
+- Instagram: [@bilalcodes1](https://instagram.com/bilalcodes1)
+- Telegram: [@bilalcodes1](https://t.me/bilalcodes1)
