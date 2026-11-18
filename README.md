@@ -22,6 +22,9 @@ My focus is not only writing code, but also understanding ideas, testing results
 
 ## Featured Projects
 
+### [DaaboolBot](https://github.com/bilalcodes1/DaaboolBot)
+An Iraqi Arabic Telegram assistant for third-year Computer Science students, with schedules, academic reminders, and privacy-safe deployment defaults.
+
 ### UOADrop
 A desktop-first, local-first print request management system for university print shops.
 
